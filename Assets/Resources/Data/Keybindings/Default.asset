@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10517e4bcb488ff4cbaf87e3ed4de59a, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: Assembly-CSharp:Dogelix.Input:KeybindingData
+  Keybindings:
+  - Action: 0
+    PositiveKeyCode: 119
+    NegativeKeyCode: 115
+  - Action: 1
+    PositiveKeyCode: 100
+    NegativeKeyCode: 97
+  - Action: 2
+    PositiveKeyCode: 27
+    NegativeKeyCode: 0
+  - Action: 3
+    PositiveKeyCode: 306
+    NegativeKeyCode: 0
+  - Action: 6
+    PositiveKeyCode: 323
+    NegativeKeyCode: 324
+  - Action: 4
+    PositiveKeyCode: 13
+    NegativeKeyCode: 0
+  - Action: 7
+    PositiveKeyCode: 122
+    NegativeKeyCode: 120
+  - Action: 5
+    PositiveKeyCode: 304
+    NegativeKeyCode: 0
+  - Action: 8
+    PositiveKeyCode: 8
+    NegativeKeyCode: 0
+  - Action: 9
+    PositiveKeyCode: 113
+    NegativeKeyCode: 101
