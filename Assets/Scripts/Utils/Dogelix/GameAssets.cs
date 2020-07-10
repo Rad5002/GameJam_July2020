@@ -37,6 +37,13 @@ namespace Dogelix
 
         public Transform TestCube;
         public Transform EditorPlane;
+        public RectTransform EditorButton;
+
+        //Blocks
+        public Transform Block;
+        public Transform LBlock;
+        public Transform RBlock;
+
     }
 
 }
