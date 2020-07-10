@@ -34,9 +34,6 @@ namespace Dogelix
                 return _i;
             }
         }
-
-        public Sprite s_White;
-        public Material m_White;
     }
 
 }
