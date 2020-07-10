@@ -34,6 +34,9 @@ namespace Dogelix
                 return _i;
             }
         }
+
+        public Transform TestCube;
+        public Transform EditorPlane;
     }
 
 }

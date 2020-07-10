@@ -45,6 +45,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69e5748eb48338c4080d6eae92b20681, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TestCube: {fileID: 1280508634811539275, guid: 41bd633df49d7194e9a3b9f4812a40ac,
+    type: 3}
+  EditorPlane: {fileID: 2846745505987341511, guid: 5aa49d73c40a0324fbeb5184536eb9a6,
+    type: 3}
 --- !u!114 &5352565015947319770
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f978e6778829dc940ad1d7bfa8c2f6dd, type: 3}
   m_Name: LRight
   m_EditorClassIdentifier: 
-  Name: UpDownRectangle
-  EBlockType: 0
+  Name: LRight
+  EBlockType: 1
   Rotation: {x: 0, y: 0, z: 0, w: 0}
