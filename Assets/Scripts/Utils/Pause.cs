@@ -22,17 +22,17 @@ public class Pause : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // TODO -> Check if esc key is pressed via Jake's input manager
-        /*
-        if (paused == false)
+        if (InputManager._i.GetKeyDown(KeybindingActions.Pause) > 0)
         {
-            Paused();
+            if (paused == false)
+            {
+                Paused();
+            }
+            else if (paused == true)
+            {
+                Play();
+            }
         }
-        else if (paused == true)
-        {
-            Play();
-        }
-        */
     }
 
     /// <summary>

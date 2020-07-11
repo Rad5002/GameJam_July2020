@@ -47,7 +47,7 @@ public class Timer : MonoBehaviour
     void Update()
     {
         // Checks if timer true, and timer is above 0
-        if (timerActive == true && time >= 0)
+        if (timerActive == true && time >= 0 && pauseCheck == false)
         {
             // time ticks down
             time -= Time.deltaTime;
